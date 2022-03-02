@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ---
 
-![Snake](https://raw.githubusercontent.com/caoxiemeihao/blog/main/assets/caoxiemeihao/snake.svg)
+![Snake](https://raw.githubusercontent.com/caoxiemeihao/caoxiemeihao/main/snake.svg)
