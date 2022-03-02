@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+![Snake](https://raw.githubusercontent.com/caoxiemeihao/blog/main/assets/caoxiemeihao/snake.svg)
