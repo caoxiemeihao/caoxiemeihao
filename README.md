@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Hellobike](https://en.wikipedia.org/wiki/Hellobike) 🚲
+- 🌱 I’m currently learning <img src="https://vitejs.dev/logo.svg" height="24"> <img src="https://rollupjs.org/logo.svg" height="24"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="24">
+
 <!--
 **caoxiemeihao/caoxiemeihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
