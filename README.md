@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Hellobike](https://en.wikipedia.org/wiki/Hellobike) 🚲
-- 🌱 I’m currently learning <img src="https://vitejs.dev/logo.svg" height="19"> <img src="https://rollupjs.org/logo.svg" height="24"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="27">
+- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/caoxiemeihao/caoxiemeihao/main/assets/logo-vite.svg" height="19"> <img src="https://raw.githubusercontent.com/caoxiemeihao/caoxiemeihao/main/assets/logo-rollup.svg" height="24"> <img src="https://raw.githubusercontent.com/caoxiemeihao/caoxiemeihao/main/assets/logo-rust.svg" height="27">
 
 <!--
 **caoxiemeihao/caoxiemeihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ---
 
-![Snake](https://raw.githubusercontent.com/caoxiemeihao/caoxiemeihao/main/snake.svg)
+![Snake](https://raw.githubusercontent.com/caoxiemeihao/caoxiemeihao/main/assets/snake.svg)
