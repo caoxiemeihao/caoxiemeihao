@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ---
 
-![Snake](https://raw.githubusercontent.com/caoxiemeihao/caoxiemeihao/main/assets/snake.svg)
+![Snake](https://github.com/caoxiemeihao/caoxiemeihao/blob/snake/github-contribution-grid-snake.svg?raw=true)
