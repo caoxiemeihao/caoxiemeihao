@@ -9,3 +9,6 @@ https://github.com/vitejs/vite/pull/7344
 ## 2022-05-21
 
 https://github.com/vitejs/vite/pull/8254
+
+## 2022-05-30
+https://github.com/vitejs/vite/pull/8394
