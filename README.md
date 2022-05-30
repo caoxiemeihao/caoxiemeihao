@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Hellobike](https://www.hello-inc.com) 🚲
-- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/caoxiemeihao/caoxiemeihao/main/assets/logo-vite.svg" height="19"> <img src="https://raw.githubusercontent.com/caoxiemeihao/caoxiemeihao/main/assets/logo-rollup.svg" height="24"> <img src="https://raw.githubusercontent.com/caoxiemeihao/caoxiemeihao/main/assets/logo-rust.svg" height="27">
+- 🔭 I’m currently working on [electron-vite](https://github.com/electron-vite), [vite-plugin](https://github.com/vite-plugin)
+- 🌱 I’m currently learning English 🐌
 
 <!--
 **caoxiemeihao/caoxiemeihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
