@@ -1,3 +1,5 @@
+> [2022-06-15] 在等 **阿里 or 字节** 内推(技术类部门优先)，base 杭州，5 年经验，没学历！微信 z308487730
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on [electron-vite](https://github.com/electron-vite), [vite-plugin](https://github.com/vite-plugin)
