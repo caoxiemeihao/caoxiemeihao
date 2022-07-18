@@ -18,3 +18,6 @@ https://github.com/vuejs/vue/pull/12581
 
 ## 2022-07-10
 https://github.com/vitejs/vite/pull/9015
+
+## 2022-07-18
+https://github.com/vitejs/vite/pull/9181
