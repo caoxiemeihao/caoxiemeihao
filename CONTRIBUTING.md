@@ -21,3 +21,9 @@ https://github.com/vitejs/vite/pull/9015
 
 ## 2022-07-18
 https://github.com/vitejs/vite/pull/9181
+
+## 2022-08-04
+https://github.com/vitejs/vite/pull/9531
+
+## 2022-08-06
+https://github.com/vitejs/vite/pull/9558
