@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 🍵 🍰 🍣 🍟
 
-<img width="270" src="https://github.com/caoxiemeihao/blog/raw/main/assets/$qrcode/$.png?raw=true" style="max-width: 100%;">
+<img width="170" src="https://github.com/caoxiemeihao/blog/raw/main/assets/$qrcode/$.png?raw=true" style="max-width: 100%;">
 
 ---
 
