@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🍵 🍰 🍣 🍟
+
+<img width="270" src="https://github.com/caoxiemeihao/blog/raw/main/assets/$qrcode/$.png?raw=true" style="max-width: 100%;">
+
 ---
 
 ![Snake](https://github.com/caoxiemeihao/caoxiemeihao/blob/snake/github-contribution-grid-snake.svg?raw=true)
