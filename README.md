@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 <img width="170" src="https://github.com/caoxiemeihao/blog/raw/main/assets/$qrcode/$.png?raw=true" style="max-width: 100%;">
 
+### **找工作中！vx: z308487730**
+
 ---
 
 ![Snake](https://github.com/caoxiemeihao/caoxiemeihao/blob/snake/github-contribution-grid-snake.svg?raw=true)
