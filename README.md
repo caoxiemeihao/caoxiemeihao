@@ -2,8 +2,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [electron-vite](https://github.com/electron-vite), [vite-plugin](https://github.com/vite-plugin)
-- 🌱 I’m currently learning English 🐌
+- 💻 I’m currently working on [Electron⚡️Vite](https://github.com/electron-vite)
+- :electron: I’m also a member of [Electron Ecosystem](https://github.com/electron/governance/tree/main/wg-ecosystem)
+- 📚 I’m working hard to learn English 🐌
 
 <!--
 **caoxiemeihao/caoxiemeihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
