@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ### **找工作中！vx: z308487730**
 
+<!--
 ---
 
 ![Snake](https://github.com/caoxiemeihao/caoxiemeihao/blob/snake/github-contribution-grid-snake.svg?raw=true)
+-->
