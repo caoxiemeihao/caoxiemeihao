@@ -1,6 +1,6 @@
 <!-- > [2022-06-15] 在等 **阿里 or 字节** 内推(技术类部门优先)，base 杭州，5 年经验，没学历！微信 z308487730 -->
 
-<h1 align='center'> I am seeking a job without overtime (Shanghai/Remote) </h1>
+<h1 align='center'> I am seeking a job without overtime (Hángzhōu, China/Remote) </h1>
 
 ### Hi there 👋
 
